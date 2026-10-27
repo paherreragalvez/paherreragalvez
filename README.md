@@ -4,9 +4,11 @@ Bienvenid@ a mi sitio en Github.
 
 Soy Pablo Herrera, economista y analista de datos con experiencia en el sector público, consultoría, investigación aplicada y docencia en estadística en Chile y Alemania.
 
-**Sobre mi:**
+Este perfil se centra en mi perfil cuantitativo. Esto incluye:
 - Dominio de R, Python, Stata y SQL.
 - Procesamiento y análisis de encuestas y datos administrativos para análisis estadístico, econometría, machine learning y análisis georreferenciado.
+
+**Sobre mi Formación Académica:**
 - Pregrado en Economía - U. de Chile (2020).
 - Diplomado Big Data y Ciencia de Datos - U. Católica (2022).
 - Magíster en Protección Social - UAS Bonn-Rhein-Sieg, Alemania (2026).

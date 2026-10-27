@@ -1,4 +1,6 @@
-Hola! Bienvenid@ a mi sitio en Github. Soy Pablo Herrera, economista y analista de datos con experiencia en el sector público, consultoría, investigación aplicada y docencia en estadística en Chile y Alemania.
+Hola!
+Bienvenid@ a mi sitio en Github.
+Soy Pablo Herrera, economista y analista de datos con experiencia en el sector público, consultoría, investigación aplicada y docencia en estadística en Chile y Alemania.
 
 **Sobre mi:**
 - Dominio de R, Python, Stata y SQL.

@@ -21,9 +21,9 @@ Este perfil se centra en mi perfil cuantitativo, lo que incluye:
 * <a href="https://github.com/paherreragalvez/woRksheets" target="_blank">Material pedagógico de R.</a> Compilado de códigos básicos de R con fines pedagógicos. (_En proceso_).
 
 **Bases de datos con las que he trabajado:**
-* Encuesta Casen.
-* Encuesta ENUT.
-* Encuesta EBS.
+* Encuesta Casen - Encuesta de Caracterización Socioeconómica Nacional.
+* Encuesta ENUT - Encuesta Nacional sobre Uso del Tiempo.
+* Encuesta EBS - Encuesta de Bienestar Social.
 * Estadísticas Laborales del INE.
 * Indicadores Económicos del Banco Central.
 * Indicadores Económicos internacionales del FMI.

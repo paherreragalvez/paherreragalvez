@@ -1,15 +1,19 @@
-**About me:**
-- Hi, I’m Pablo.
-- 📚I'm an economist from Chile and I’m interested in data analysis with focus on public policy.
-- 👨🏻‍🎓Bachelor's in Economics and Postgraduate Diploma in Big Data and Data Science, both of them in Chile.
-- 🇩🇪Currently studying a MSc. in Social Protection in the Hochschule Bonn-Rhein-Sieg, in Germany.
-- 📊Proficient in R and Stata, also some knowledge in Python.
+**Sobre mi:**
 
-**Relevant repositories:**
-- <a href="https://github.com/pherreragalvez/r_big_data_science" target="_blank">R - Data Science Diploma</a>
-- <a href="https://github.com/pherreragalvez/Stata-dofiles" target="_blank">Stata - Econometrics and characterizations</a>
 
-Also currently working on a repository with worksheets for anyone learning R from scratch. Take a look at the link below :)
+- Economista y analista de datos con experiencia en el sector público, consultoría, investigación aplicada
+y docencia en estadística en Chile y Alemania.
+- Dominio de R, Python, Stata y SQL.
+- Procesamiento y análisis de encuestas y datos administrativos para análisis estadístico, econometría, machine learning y análisis georreferenciado.
+- Pregrado en Economía U. de Chile.
+- Diplomado Big Data y Ciencia de Datos U. Católica.
+- Magíster en Protección Social UAS Bonn-Rhein-Sieg, Alemania.
+
+**Repositorios relevantes:**
+- <a href="https://github.com/pherreragalvez/r_big_data_science" target="_blank">R - Diplomado en Big Data y Ciencia de Datos</a>
+- <a href="https://github.com/pherreragalvez/Stata-dofiles" target="_blank">Stata - Análisis Estadístico y Econométrico</a>
+
+Además, tengo un repositorio en proceso para apoyar a quien esté aprendiendo programación en R desde cero.
 - <a href="https://github.com/pherreragalvez/woRksheets" target="_blank">woRksheets</a>
 
 <!---

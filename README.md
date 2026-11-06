@@ -14,7 +14,7 @@ El contenido de mi Github se centra en mi perfil cuantitativo, lo que incluye:
 - Magíster en Protección Social - UAS Bonn-Rhein-Sieg, Alemania (2026).
 
 **Scripts destacados de diversas tareas de programación:**
-* <a href="https://github.com/paherreragalvez/geRmany" target="_blank">Notas DEval.</a> Creación de data set maestro usando R, con información de distintas organismos internacionales. Foco en datos de democracia, corrupción, transparencia y género. (_Ayudantía de investigación en Alemania_).
+* <a href="https://github.com/paherreragalvez/geRmany" target="_blank">Notas DEval.</a> Creación de data set maestro usando R, con información de distintas organismos internacionales. Foco en datos de democracia, corrupción, transparencia y género. (_Ayudantía de investigación, Instituto DEval en Alemania_).
 * <a href="https://github.com/paherreragalvez/Stata-dofiles/" target="_blank">Scripts de Stata.</a> Códigos de Stata incluyendo limpieza de datos, análisis estadístico e inferencia econométrica. (_Pregrado en Economía y trabajo en el Ministerio de Desarrollo Social_).
 * <a href="https://github.com/paherreragalvez/r_big_data_science" target="_blank">Scripts de R.</a> Códigos de R incluyendo análisis de datos y técnicas de Machine Learning. (_Diplomado en Big Data y Ciencia de Datos_).
 * <a href="https://github.com/paherreragalvez/woRksheets" target="_blank">Material pedagógico de R.</a> Compilado de códigos básicos de R con fines pedagógicos. (_En proceso_).

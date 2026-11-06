@@ -24,6 +24,7 @@ Este contenido se centra en mi perfil cuantitativo, lo que incluye:
 * Encuesta Casen - Encuesta de Caracterización Socioeconómica Nacional.
 * Encuesta ENUT - Encuesta Nacional sobre Uso del Tiempo.
 * Encuesta EBS - Encuesta de Bienestar Social.
+* Encuesta ENE - Encuesta Nacional de Empleo.
 * Estadísticas Laborales del INE.
 * Indicadores Económicos del Banco Central.
 * Indicadores Económicos internacionales del FMI.

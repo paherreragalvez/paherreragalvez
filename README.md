@@ -2,9 +2,9 @@ Hola!
 
 Bienvenid@ a mi sitio en Github.
 
-Soy Pablo Herrera, economista y analista de datos con experiencia en el sector público, consultoría, investigación aplicada y docencia en estadística en Chile y Alemania. Puedes ver mi sitio web <a href="https://paherreragalvez.github.io/" target="_blank">aquí.</a>
+Soy Pablo Herrera, economista y analista de datos con experiencia en el sector público, consultoría, investigación aplicada y docencia en estadística en Chile y Alemania. Puedes ver mi Sitio Web <a href="https://paherreragalvez.github.io/" target="_blank">aquí</a> y mi perfil de Linkedin <a href="https://www.linkedin.com/in/paherreragalvez/" target="_blank">aquí</a>.
 
-Este contenido se centra en mi perfil cuantitativo, lo que incluye:
+El contenido de mi Github se centra en mi perfil cuantitativo, lo que incluye:
 - Dominio de R, Python, Stata y SQL.
 - Procesamiento y análisis de encuestas y datos administrativos para análisis estadístico, econometría, machine learning y análisis georreferenciado.
 
@@ -12,7 +12,6 @@ Este contenido se centra en mi perfil cuantitativo, lo que incluye:
 - Ingeniero Comercial, mención en Economía - U. de Chile (2020).
 - Diplomado Big Data y Ciencia de Datos - U. Católica (2022).
 - Magíster en Protección Social - UAS Bonn-Rhein-Sieg, Alemania (2026).
-- Puedes visitar mi Perfil de Linkedin <a href="https://www.linkedin.com/in/paherreragalvez/" target="_blank">aquí</a>.
 
 **Scripts destacados de diversas tareas de programación:**
 * <a href="https://github.com/paherreragalvez/geRmany" target="_blank">Notas DEval.</a> Creación de data set maestro usando R, con información de distintas organismos internacionales. Foco en datos de democracia, corrupción, transparencia y género. (_Ayudantía de investigación en Alemania_).

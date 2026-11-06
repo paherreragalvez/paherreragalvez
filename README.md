@@ -2,7 +2,9 @@ Hola!
 
 Bienvenid@ a mi sitio en Github.
 
-Soy Pablo Herrera, economista y analista de datos con experiencia en el sector público, consultoría, investigación aplicada y docencia en estadística en Chile y Alemania. Puedes ver mi Sitio Web <a href="https://paherreragalvez.github.io/" target="_blank">aquí</a> y mi perfil de Linkedin <a href="https://www.linkedin.com/in/paherreragalvez/" target="_blank">aquí</a>.
+Soy Pablo Herrera, economista y analista de datos con experiencia en el sector público, consultoría, investigación aplicada y docencia en estadística en Chile y Alemania.
+
+Puedes ver mi Sitio Web <a href="https://paherreragalvez.github.io/" target="_blank">aquí</a> y mi perfil de Linkedin <a href="https://www.linkedin.com/in/paherreragalvez/" target="_blank">aquí</a>.
 
 El contenido de mi Github se centra en mi perfil cuantitativo, lo que incluye:
 - Dominio de R, Python, Stata y SQL.
